@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Sureka
+Password: Sureka@02
+ URL: /api/checkLoggerData/Sureka/Sureka@02
+Date: 12/7/2024, 2:36:28 pm
+Method Type: POST
+
